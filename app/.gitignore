@@ -1,1 +1,3 @@
 /build
+/src/androidTest/java/com/curiouswizard/eggtimer/ExampleInstrumentedTest.kt
+/src/test/java/com/curiouswizard/eggtimer/ExampleUnitTest.kt
